@@ -9,7 +9,7 @@ namespace vjezba1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Super program");
+            Console.WriteLine("Hello World");
             Console.Read();
         }
     }
