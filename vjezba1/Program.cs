@@ -11,6 +11,7 @@ namespace vjezba1
         {
             Console.WriteLine("Hello World");
             Console.Read();
+            Console.Read();
         }
     }
 }
