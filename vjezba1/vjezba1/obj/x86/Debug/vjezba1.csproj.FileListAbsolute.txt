@@ -1,0 +1,4 @@
+C:\Users\student\Desktop\Novavjezba\vjezba1\vjezba1\bin\Debug\vjezba1.exe
+C:\Users\student\Desktop\Novavjezba\vjezba1\vjezba1\bin\Debug\vjezba1.pdb
+C:\Users\student\Desktop\Novavjezba\vjezba1\vjezba1\obj\x86\Debug\vjezba1.exe
+C:\Users\student\Desktop\Novavjezba\vjezba1\vjezba1\obj\x86\Debug\vjezba1.pdb
